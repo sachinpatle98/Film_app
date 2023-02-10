@@ -1,12 +1,9 @@
 # Film App
-<p>
-<a href="javascript:;"><img src="https://img.shields.io/github/issues/jogeshpi03/omdb-react"/></a>
-<a href="javascript:;"><img src="https://img.shields.io/github/stars/jogeshpi03/omdb-react"></a>
-</p>
 
+# Summary 
 A simple react application to find movies, series and episodes. I have used the [OMDB API](http://www.omdbapi.com) and it has certain amount of limits to fetching data. I have also used the **Ant Design** for UI.
 
-[![Film App](https://github.com/sachinpatle98/Fimp-app/raw/master/screeshot.png)]
+[![Film App](https://github.com/sachinpatle98/Fimp-app/assets/Screenshot_20230210_112704)]
 
 ## Requirement
 - [OMDB API KEY](http://www.omdbapi.com)
@@ -20,7 +17,6 @@ An application used to fetch data form OMDB Movie API  based on user preference,
 
 #### Example:   
 
-(https://github.com/sachinpatle98/Fimp-app/raw/master/screeshot.png)]
 
 
 ## Installation and Setup Instructions
