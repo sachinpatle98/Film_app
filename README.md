@@ -3,15 +3,15 @@
 # Summary 
 A simple react application to find movies, series and episodes. I have used the [OMDB API](http://www.omdbapi.com) and it has certain amount of limits to fetching data. I have also used the **Ant Design** for UI.
 
-<img src="/assets/Screenshot_20230210_112704.png" alt="Alt text" title="Optional title">
+<img src="/assets/Screenshot_20230210_112704.png" alt="first img" title="Entire UI Page">
 <br /> <br />
-<img src="/assets/Screenshot_20230210_112744" alt="Alt text" title="Optional title">
+<img src="/assets/Screenshot_20230210_112744.png" alt="seond img" title="Movies Page">
 <br /> <br />
-<img src="/assets/Screenshot_20230210_112807" alt="Alt text" title="Optional title">
+<img src="/assets/Screenshot_20230210_112807.png" alt="third img" title="Movies Details">
 <br /> <br />
-<img src="/assets/Screenshot_20230210_112836" alt="Alt text" title="Optional title">
+<img src="/assets/Screenshot_20230210_112836.png" alt="fourth img" title="Pagination Page">
 <br /> <br />
-<img src="/assets/Screenshot_20230210_113045" alt="Alt text" title="Optional title">
+<img src="/assets/Screenshot_20230210_113045.png" alt="fifth img" title="Filtering Page">
 <br /> <br />
 
 
