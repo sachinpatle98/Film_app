@@ -1,6 +1,6 @@
-# Film App
+ **Film App**
 
-#Tech stacks : 
+**Tech stacks :** 
 <ul>
 <li>React JS</li>
 <li>Redux Tool for state Management</li>
@@ -8,7 +8,9 @@
 <li>antd for Design</li>
 <li>Bootsrap</li>
 </ul>
-# Summary 
+
+**Summary** 
+
 A simple react application to find movies, series and episodes. I have used the [OMDB API](http://www.omdbapi.com) and it has certain amount of limits to fetching data. I have also used the **Ant Design** for UI.
 
 <p>This image show the entire User interface of the OMDB movies present on the screen.</p>
@@ -29,7 +31,7 @@ If we put any movie name in the serach bar that preticular movie will fetch.
 <br /> <br />
 
 
-## Requirement
+ **Requirement**
 - [OMDB API KEY](http://www.omdbapi.com)
 
 
